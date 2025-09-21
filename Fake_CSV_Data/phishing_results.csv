@@ -1,0 +1,114 @@
+id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
+XewN3,Email Opened,220.76.50.132,-26.933686,154.507338,2025-09-21T16:05:47.793815Z,False,2025-09-21T16:07:23.793815Z,nathan.moreau@entreprise.com,Nathan,Moreau,Chef de projet
+P9UNT,Email Opened,99.202.136.23,69.673693,-136.554815,2025-09-21T15:49:07.793815Z,False,2025-09-21T15:50:19.793815Z,marie.dubois@entreprise.com,Marie,Dubois,RH
+FUWcl,Email Opened,50.219.119.220,7.75822,-155.726997,2025-09-21T15:44:04.793815Z,False,2025-09-21T15:44:47.793815Z,hugo.laurent@entreprise.com,Hugo,Laurent,Développeur
+UGarj,Email Opened,148.141.80.24,18.597013,-123.409146,2025-09-21T15:52:13.793815Z,False,2025-09-21T15:53:27.793815Z,marie.moreau@entreprise.com,Marie,Moreau,Stagiaire
+dIu87,Email Opened,45.134.79.57,17.776051,175.963746,2025-09-21T16:02:45.793815Z,False,2025-09-21T16:03:42.793815Z,sophie.simon@entreprise.com,Sophie,Simon,Chef de projet
+gb5XI,Email Opened,243.158.48.73,8.659143,-172.999507,2025-09-21T15:58:27.793815Z,False,2025-09-21T15:59:02.793815Z,nathan.simon@entreprise.com,Nathan,Simon,Comptable
+koHM4,Email Opened,179.244.120.240,-10.692281,48.437927,2025-09-21T16:08:08.793815Z,True,2025-09-21T16:08:18.793815Z,clara.michel@entreprise.com,Clara,Michel,Chef de projet
+PAJzI,Email Sent,,0,0,2025-09-21T15:55:08.793815Z,False,2025-09-21T15:55:54.793815Z,marie.garcia@entreprise.com,Marie,Garcia,RH
+apPnj,Submitted Data,138.15.26.72,-72.457618,-76.349904,2025-09-21T15:53:46.793815Z,False,2025-09-21T15:55:43.793815Z,thomas.martin@entreprise.com,Thomas,Martin,Technicien
+f81ty,Email Opened,15.176.140.4,45.536429,-55.282697,2025-09-21T16:17:24.793815Z,True,2025-09-21T16:19:21.793815Z,emma.laurent@entreprise.com,Emma,Laurent,Technicien
+r4qLo,Email Opened,51.182.108.111,78.641173,145.217472,2025-09-21T15:39:48.793815Z,True,2025-09-21T15:40:21.793815Z,lucas.durand@entreprise.com,Lucas,Durand,Comptable
+u95Rv,Email Opened,155.40.221.242,-27.486128,-176.553233,2025-09-21T15:56:35.793815Z,False,2025-09-21T15:57:23.793815Z,sophie.moreau@entreprise.com,Sophie,Moreau,Technicien
+Cyvpy,Email Opened,128.148.76.38,11.100467,-52.327797,2025-09-21T16:07:50.793815Z,False,2025-09-21T16:08:35.793815Z,emma.durand@entreprise.com,Emma,Durand,Stagiaire
+GBtt1,Submitted Data,235.116.212.104,73.681153,71.00212,2025-09-21T15:47:08.793815Z,False,2025-09-21T15:47:57.793815Z,marie.lefevre@entreprise.com,Marie,Lefevre,Directeur
+U1hGX,Submitted Data,211.43.246.23,63.424821,-49.900665,2025-09-21T15:53:15.793815Z,False,2025-09-21T15:53:31.793815Z,lucas.martin@entreprise.com,Lucas,Martin,RH
+W9XvO,Submitted Data,204.80.219.191,66.850229,141.478187,2025-09-21T15:37:58.793815Z,False,2025-09-21T15:38:14.793815Z,hugo.garcia@entreprise.com,Hugo,Garcia,Directeur
+MToJa,Submitted Data,145.98.98.29,17.524202,121.54628,2025-09-21T15:47:27.793815Z,False,2025-09-21T15:48:15.793815Z,julien.michel@entreprise.com,Julien,Michel,Comptable
+zWxyh,Email Opened,204.142.55.44,-82.771239,141.626713,2025-09-21T16:22:48.793815Z,True,2025-09-21T16:24:13.793815Z,thomas.dubois@entreprise.com,Thomas,Dubois,Développeur
+67usB,Clicked Link,75.200.239.122,-28.224598,95.82322,2025-09-21T15:38:58.793815Z,False,2025-09-21T15:39:53.793815Z,paul.lefevre@entreprise.com,Paul,Lefevre,Directeur
+LqJW9,Email Opened,226.138.64.167,33.234571,36.149725,2025-09-21T16:17:21.793815Z,False,2025-09-21T16:17:48.793815Z,clara.garcia@entreprise.com,Clara,Garcia,Chef de projet
+QrWU5,Email Opened,70.25.75.253,27.089377,49.437965,2025-09-21T16:24:46.793815Z,False,2025-09-21T16:25:32.793815Z,thomas.garcia@entreprise.com,Thomas,Garcia,Chef de projet
+vsY1X,Clicked Link,113.155.45.112,-80.33159,-41.11277,2025-09-21T15:46:17.793815Z,False,2025-09-21T15:47:19.793815Z,marie.laurent@entreprise.com,Marie,Laurent,RH
+CdrDK,Email Opened,207.36.180.26,-52.71498,164.028785,2025-09-21T15:56:11.793815Z,True,2025-09-21T15:56:49.793815Z,marie.dubois@entreprise.com,Marie,Dubois,Directeur
+DzhD1,Email Opened,57.119.85.123,17.44419,-24.734568,2025-09-21T16:05:38.793815Z,False,2025-09-21T16:07:17.793815Z,paul.simon@entreprise.com,Paul,Simon,Chef de projet
+FKVoK,Clicked Link,50.170.60.121,-16.990548,46.656123,2025-09-21T15:38:27.793815Z,False,2025-09-21T15:39:16.793815Z,marie.dubois@entreprise.com,Marie,Dubois,Commercial
+F8Nie,Email Opened,77.20.78.31,-72.29116,-142.5252,2025-09-21T15:48:01.793815Z,False,2025-09-21T15:48:24.793815Z,lucas.durand@entreprise.com,Lucas,Durand,RH
+t3vJ9,Email Opened,67.153.235.8,-37.328829,34.30619,2025-09-21T16:10:24.793815Z,True,2025-09-21T16:10:30.793815Z,hugo.durand@entreprise.com,Hugo,Durand,Stagiaire
+MKjRl,Email Opened,160.189.180.81,-78.995375,61.602333,2025-09-21T16:23:02.793815Z,False,2025-09-21T16:24:38.793815Z,nathan.michel@entreprise.com,Nathan,Michel,RH
+yL3uI,Email Opened,205.83.43.33,37.033495,-31.211409,2025-09-21T16:15:15.793815Z,False,2025-09-21T16:15:39.793815Z,sophie.durand@entreprise.com,Sophie,Durand,Développeur
+MgXoK,Clicked Link,89.148.52.112,68.254606,-113.410987,2025-09-21T15:37:47.793815Z,False,2025-09-21T15:38:00.793815Z,clara.simon@entreprise.com,Clara,Simon,Commercial
+yLzBY,Email Opened,214.152.171.8,29.18007,9.842772,2025-09-21T16:12:47.793815Z,False,2025-09-21T16:13:49.793815Z,hugo.laurent@entreprise.com,Hugo,Laurent,Stagiaire
+fr37J,Email Opened,114.145.227.224,86.90205,83.626568,2025-09-21T15:47:42.793815Z,False,2025-09-21T15:49:34.793815Z,thomas.simon@entreprise.com,Thomas,Simon,Développeur
+mRSEv,Email Sent,,0,0,2025-09-21T16:15:17.793815Z,False,2025-09-21T16:15:37.793815Z,hugo.michel@entreprise.com,Hugo,Michel,Chef de projet
+jtZhg,Email Opened,190.175.100.9,-58.148909,150.920342,2025-09-21T15:58:27.793815Z,False,2025-09-21T15:59:31.793815Z,lucas.durand@entreprise.com,Lucas,Durand,Technicien
+TNQQg,Clicked Link,244.68.174.24,4.550048,139.334095,2025-09-21T16:10:43.793815Z,False,2025-09-21T16:12:28.793815Z,emma.laurent@entreprise.com,Emma,Laurent,Commercial
+qWR9p,Email Opened,23.116.144.186,-62.99591,1.839097,2025-09-21T15:40:36.793815Z,False,2025-09-21T15:40:48.793815Z,marie.lefevre@entreprise.com,Marie,Lefevre,Comptable
+Um6rU,Email Opened,157.238.130.46,-6.015496,169.951627,2025-09-21T16:26:01.793815Z,False,2025-09-21T16:27:28.793815Z,nathan.martin@entreprise.com,Nathan,Martin,Commercial
+Uxzqd,Email Opened,137.42.66.220,10.815348,-98.161353,2025-09-21T16:03:16.793815Z,False,2025-09-21T16:03:38.793815Z,thomas.michel@entreprise.com,Thomas,Michel,Commercial
+S7OnJ,Email Opened,148.172.175.209,63.38761,-35.379134,2025-09-21T15:45:06.793815Z,True,2025-09-21T15:46:08.793815Z,léa.dubois@entreprise.com,Léa,Dubois,Technicien
+jBsg7,Email Opened,55.5.24.18,-67.654243,-116.89328,2025-09-21T16:14:52.793815Z,True,2025-09-21T16:15:28.793815Z,julien.lefevre@entreprise.com,Julien,Lefevre,Directeur
+B7pgO,Email Opened,91.106.235.139,-47.389482,77.171046,2025-09-21T16:31:35.793815Z,True,2025-09-21T16:32:07.793815Z,emma.lefevre@entreprise.com,Emma,Lefevre,Stagiaire
+bguyT,Email Opened,25.20.184.248,76.447783,53.628553,2025-09-21T15:40:33.793815Z,True,2025-09-21T15:41:48.793815Z,emma.bernard@entreprise.com,Emma,Bernard,Comptable
+9WX4u,Submitted Data,48.149.196.49,-9.692302,80.745048,2025-09-21T16:27:27.793815Z,False,2025-09-21T16:28:28.793815Z,clara.durand@entreprise.com,Clara,Durand,Chef de projet
+c9Inp,Email Opened,84.175.249.36,18.972622,121.858914,2025-09-21T15:52:15.793815Z,False,2025-09-21T15:52:47.793815Z,sophie.bernard@entreprise.com,Sophie,Bernard,Technicien
+gJxOq,Email Opened,215.21.154.182,-81.89753,-61.67794,2025-09-21T15:56:09.793815Z,True,2025-09-21T15:57:51.793815Z,léa.lefevre@entreprise.com,Léa,Lefevre,Technicien
+4TOpB,Email Opened,223.159.11.243,4.092548,82.235271,2025-09-21T15:55:25.793815Z,True,2025-09-21T15:55:43.793815Z,thomas.garcia@entreprise.com,Thomas,Garcia,Commercial
+APBEt,Email Opened,151.237.107.175,-69.300901,-92.205588,2025-09-21T15:56:40.793815Z,False,2025-09-21T15:58:06.793815Z,hugo.garcia@entreprise.com,Hugo,Garcia,Stagiaire
+tqPpZ,Email Opened,80.127.93.169,-7.790198,23.22709,2025-09-21T16:32:21.793815Z,False,2025-09-21T16:32:37.793815Z,julien.bernard@entreprise.com,Julien,Bernard,Stagiaire
+qtSOk,Email Opened,175.94.184.4,-51.601318,77.986083,2025-09-21T16:17:28.793815Z,False,2025-09-21T16:18:57.793815Z,marie.garcia@entreprise.com,Marie,Garcia,Directeur
+90GIh,Email Opened,189.193.132.147,79.346014,-32.210132,2025-09-21T16:18:07.793815Z,False,2025-09-21T16:19:01.793815Z,clara.martin@entreprise.com,Clara,Martin,Commercial
+f4YEZ,Email Opened,171.69.134.148,-13.909955,130.717335,2025-09-21T15:36:08.793815Z,False,2025-09-21T15:36:10.793815Z,nathan.martin@entreprise.com,Nathan,Martin,Stagiaire
+sjlXi,Email Opened,222.113.118.222,72.259286,-152.255375,2025-09-21T15:37:05.793815Z,False,2025-09-21T15:37:32.793815Z,sophie.garcia@entreprise.com,Sophie,Garcia,Technicien
+GquY2,Email Opened,188.164.210.210,35.746095,16.596384,2025-09-21T16:23:56.793815Z,False,2025-09-21T16:24:05.793815Z,hugo.bernard@entreprise.com,Hugo,Bernard,Directeur
+iTThE,Email Opened,157.26.52.70,-12.604038,-32.07843,2025-09-21T16:15:32.793815Z,True,2025-09-21T16:16:13.793815Z,nathan.simon@entreprise.com,Nathan,Simon,Directeur
+D41AO,Email Opened,34.80.120.146,81.34583,-35.177303,2025-09-21T15:38:32.793815Z,False,2025-09-21T15:39:22.793815Z,lucas.lefevre@entreprise.com,Lucas,Lefevre,Chef de projet
+pNjWa,Email Opened,143.190.233.230,45.732335,13.383768,2025-09-21T16:11:10.793815Z,False,2025-09-21T16:12:47.793815Z,thomas.michel@entreprise.com,Thomas,Michel,Chef de projet
+yy6ho,Email Opened,222.198.165.212,8.774019,-104.208978,2025-09-21T16:19:20.793815Z,True,2025-09-21T16:20:21.793815Z,clara.bernard@entreprise.com,Clara,Bernard,Comptable
+fZuKN,Clicked Link,20.158.255.91,-40.096377,159.315467,2025-09-21T16:23:31.793815Z,False,2025-09-21T16:25:02.793815Z,léa.dubois@entreprise.com,Léa,Dubois,Directeur
+ywwQs,Email Opened,227.104.37.133,43.935325,137.010949,2025-09-21T15:54:16.793815Z,False,2025-09-21T15:55:22.793815Z,julien.garcia@entreprise.com,Julien,Garcia,Commercial
+xPldT,Email Opened,30.164.255.111,-82.475809,-4.117258,2025-09-21T16:20:30.793815Z,False,2025-09-21T16:21:56.793815Z,thomas.laurent@entreprise.com,Thomas,Laurent,Directeur
+HFl6V,Submitted Data,113.1.165.86,63.112972,46.713052,2025-09-21T15:50:34.793815Z,False,2025-09-21T15:52:20.793815Z,léa.laurent@entreprise.com,Léa,Laurent,Technicien
+0KGRt,Email Opened,191.235.165.40,32.986889,82.996139,2025-09-21T15:48:43.793815Z,True,2025-09-21T15:48:54.793815Z,emma.dubois@entreprise.com,Emma,Dubois,Développeur
+3LFXR,Email Opened,254.194.254.165,8.982297,161.318329,2025-09-21T15:51:05.793815Z,False,2025-09-21T15:51:50.793815Z,paul.dubois@entreprise.com,Paul,Dubois,Commercial
+jv7ix,Email Opened,98.30.61.218,59.168871,-87.835355,2025-09-21T16:24:46.793815Z,False,2025-09-21T16:25:47.793815Z,léa.moreau@entreprise.com,Léa,Moreau,Chef de projet
+QIDxp,Email Opened,225.152.16.91,-28.7328,-5.81931,2025-09-21T16:01:53.793815Z,False,2025-09-21T16:02:28.793815Z,hugo.dubois@entreprise.com,Hugo,Dubois,Développeur
+IaxQ3,Email Opened,155.32.149.2,-78.45259,142.080299,2025-09-21T16:07:13.793815Z,False,2025-09-21T16:09:04.793815Z,sophie.dubois@entreprise.com,Sophie,Dubois,Technicien
+qc5i2,Email Opened,110.58.221.104,-43.653326,-95.276581,2025-09-21T16:04:20.793815Z,True,2025-09-21T16:04:39.793815Z,paul.garcia@entreprise.com,Paul,Garcia,Technicien
+MFFZn,Email Opened,127.20.207.1,63.3306,-65.581964,2025-09-21T16:01:56.793815Z,True,2025-09-21T16:02:58.793815Z,léa.garcia@entreprise.com,Léa,Garcia,Chef de projet
+5tSnv,Email Opened,250.225.244.241,58.170905,-139.893104,2025-09-21T16:22:25.793815Z,True,2025-09-21T16:24:08.793815Z,nathan.bernard@entreprise.com,Nathan,Bernard,Développeur
+qC0ze,Email Opened,183.13.94.5,73.833456,-130.405103,2025-09-21T15:53:48.793815Z,False,2025-09-21T15:55:05.793815Z,nathan.martin@entreprise.com,Nathan,Martin,Comptable
+QxNBW,Email Opened,104.84.226.46,-58.535077,-122.656476,2025-09-21T15:40:02.793815Z,False,2025-09-21T15:40:50.793815Z,léa.simon@entreprise.com,Léa,Simon,RH
+4pO2A,Email Opened,244.164.70.74,59.3677,49.680596,2025-09-21T16:20:07.793815Z,False,2025-09-21T16:21:25.793815Z,emma.simon@entreprise.com,Emma,Simon,Chef de projet
+Gft9b,Email Opened,56.236.186.242,81.72174,48.927818,2025-09-21T16:24:52.793815Z,False,2025-09-21T16:25:32.793815Z,julien.michel@entreprise.com,Julien,Michel,Commercial
+bGa4i,Email Opened,22.157.227.168,-70.335342,121.347204,2025-09-21T15:47:34.793815Z,False,2025-09-21T15:49:27.793815Z,hugo.dubois@entreprise.com,Hugo,Dubois,Comptable
+iFdgP,Email Opened,118.236.239.41,-65.53767,-66.593794,2025-09-21T15:41:17.793815Z,False,2025-09-21T15:41:52.793815Z,julien.lefevre@entreprise.com,Julien,Lefevre,Chef de projet
+BuMkr,Email Opened,205.7.9.106,8.614542,-154.555288,2025-09-21T16:31:50.793815Z,False,2025-09-21T16:32:48.793815Z,hugo.bernard@entreprise.com,Hugo,Bernard,Comptable
+1C3Vx,Email Sent,,0,0,2025-09-21T15:49:15.793815Z,False,2025-09-21T15:51:06.793815Z,nathan.michel@entreprise.com,Nathan,Michel,Stagiaire
+XwnxP,Email Opened,236.93.27.133,-31.493705,-151.495552,2025-09-21T16:23:05.793815Z,True,2025-09-21T16:24:58.793815Z,paul.martin@entreprise.com,Paul,Martin,RH
+wtjiv,Submitted Data,6.13.127.137,4.851693,149.221509,2025-09-21T16:11:21.793815Z,False,2025-09-21T16:11:59.793815Z,sophie.michel@entreprise.com,Sophie,Michel,Développeur
+CqyBm,Email Opened,178.188.43.45,-57.618544,-58.225934,2025-09-21T15:42:30.793815Z,True,2025-09-21T15:44:23.793815Z,emma.bernard@entreprise.com,Emma,Bernard,Directeur
+oj9el,Email Opened,93.199.127.137,21.064035,84.736239,2025-09-21T16:33:59.793815Z,False,2025-09-21T16:34:32.793815Z,hugo.simon@entreprise.com,Hugo,Simon,Stagiaire
+5u0u4,Clicked Link,23.4.140.175,63.454009,-65.043038,2025-09-21T15:55:55.793815Z,False,2025-09-21T15:56:36.793815Z,hugo.dubois@entreprise.com,Hugo,Dubois,Stagiaire
+5h2C7,Email Opened,50.229.21.4,-32.996295,-1.223571,2025-09-21T15:55:48.793815Z,True,2025-09-21T15:57:29.793815Z,hugo.bernard@entreprise.com,Hugo,Bernard,Directeur
+MkNEs,Email Sent,,0,0,2025-09-21T15:50:26.793815Z,False,2025-09-21T15:51:59.793815Z,paul.dubois@entreprise.com,Paul,Dubois,Chef de projet
+Wwo6K,Submitted Data,54.86.24.42,-40.418537,-104.120035,2025-09-21T15:47:22.793815Z,False,2025-09-21T15:49:05.793815Z,paul.laurent@entreprise.com,Paul,Laurent,Commercial
+W6Xri,Email Opened,102.246.177.255,53.530912,173.283652,2025-09-21T15:42:48.793815Z,False,2025-09-21T15:43:12.793815Z,clara.dubois@entreprise.com,Clara,Dubois,Développeur
+vXSIY,Email Opened,217.37.14.134,23.406303,13.608623,2025-09-21T15:40:52.793815Z,False,2025-09-21T15:41:15.793815Z,clara.dubois@entreprise.com,Clara,Dubois,Stagiaire
+BZbOm,Email Opened,167.99.162.5,-23.654876,-112.127772,2025-09-21T16:33:37.793815Z,True,2025-09-21T16:35:11.793815Z,emma.durand@entreprise.com,Emma,Durand,Développeur
+MwnDL,Submitted Data,76.96.116.92,-67.567217,-86.00003,2025-09-21T15:34:55.793815Z,False,2025-09-21T15:35:23.793815Z,hugo.michel@entreprise.com,Hugo,Michel,Développeur
+RjL96,Email Opened,224.177.60.28,-33.529889,-9.515321,2025-09-21T16:28:22.793815Z,False,2025-09-21T16:30:07.793815Z,léa.bernard@entreprise.com,Léa,Bernard,Comptable
+yqQJp,Email Opened,171.182.65.107,81.390513,-92.739268,2025-09-21T16:12:53.793815Z,False,2025-09-21T16:14:21.793815Z,emma.simon@entreprise.com,Emma,Simon,RH
+tfKXM,Clicked Link,233.153.48.158,37.498006,-178.216006,2025-09-21T16:33:14.793815Z,True,2025-09-21T16:34:08.793815Z,emma.bernard@entreprise.com,Emma,Bernard,Technicien
+M1O0J,Clicked Link,55.30.41.57,-57.408926,-173.459976,2025-09-21T15:39:15.793815Z,True,2025-09-21T15:40:01.793815Z,clara.bernard@entreprise.com,Clara,Bernard,Chef de projet
+og0pt,Email Opened,230.147.12.139,-81.837692,168.843803,2025-09-21T15:58:16.793815Z,False,2025-09-21T15:59:56.793815Z,sophie.bernard@entreprise.com,Sophie,Bernard,Stagiaire
+PI86f,Submitted Data,97.78.230.206,30.351033,-6.769043,2025-09-21T15:39:46.793815Z,False,2025-09-21T15:39:59.793815Z,hugo.durand@entreprise.com,Hugo,Durand,RH
+hJmOi,Email Opened,29.39.226.95,-68.326523,-134.024328,2025-09-21T15:40:44.793815Z,False,2025-09-21T15:40:44.793815Z,thomas.dubois@entreprise.com,Thomas,Dubois,Directeur
+li1GG,Email Opened,141.211.92.75,-34.211783,53.142193,2025-09-21T16:01:07.793815Z,True,2025-09-21T16:01:50.793815Z,emma.laurent@entreprise.com,Emma,Laurent,Comptable
+53ncT,Email Opened,99.200.222.4,-81.771431,139.887294,2025-09-21T15:54:15.793815Z,True,2025-09-21T15:54:38.793815Z,clara.durand@entreprise.com,Clara,Durand,Chef de projet
+u2QbW,Email Opened,219.243.42.18,69.319602,-24.429823,2025-09-21T16:26:56.793815Z,False,2025-09-21T16:28:43.793815Z,paul.lefevre@entreprise.com,Paul,Lefevre,Commercial
+qyJWI,Email Opened,239.35.118.148,81.123749,149.831591,2025-09-21T15:54:58.793815Z,True,2025-09-21T15:56:34.793815Z,julien.dubois@entreprise.com,Julien,Dubois,Développeur
+1xjSg,Email Opened,243.202.65.135,-20.268535,-31.902134,2025-09-21T15:48:55.793815Z,False,2025-09-21T15:49:48.793815Z,lucas.moreau@entreprise.com,Lucas,Moreau,RH
+G1ylj,Email Opened,102.84.228.149,-13.706563,-64.675639,2025-09-21T16:09:51.793815Z,False,2025-09-21T16:09:54.793815Z,clara.garcia@entreprise.com,Clara,Garcia,Développeur
+PaZa9,Email Opened,56.131.156.102,-83.42192,-36.324038,2025-09-21T15:52:10.793815Z,False,2025-09-21T15:52:43.793815Z,léa.lefevre@entreprise.com,Léa,Lefevre,Chef de projet
+aM6Wd,Email Opened,219.98.128.105,47.427178,-45.159887,2025-09-21T16:14:11.793815Z,False,2025-09-21T16:15:27.793815Z,paul.simon@entreprise.com,Paul,Simon,Commercial
+dlHsA,Submitted Data,97.194.249.107,-12.849474,142.877824,2025-09-21T16:18:58.793815Z,False,2025-09-21T16:19:26.793815Z,thomas.laurent@entreprise.com,Thomas,Laurent,Chef de projet
+te8nV,Email Opened,56.46.184.108,2.835081,-89.206038,2025-09-21T16:30:29.793815Z,False,2025-09-21T16:31:11.793815Z,clara.garcia@entreprise.com,Clara,Garcia,Chef de projet
+FBDJE,Submitted Data,78.45.166.146,-59.609543,116.289568,2025-09-21T15:36:59.793815Z,False,2025-09-21T15:37:10.793815Z,lucas.dubois@entreprise.com,Lucas,Dubois,Directeur
+RTDA3,Email Opened,190.25.155.50,83.418393,-94.49408,2025-09-21T15:52:33.793815Z,False,2025-09-21T15:52:33.793815Z,clara.laurent@entreprise.com,Clara,Laurent,Développeur
+2k49R,Clicked Link,229.245.231.138,73.629693,-40.076229,2025-09-21T16:32:11.793815Z,True,2025-09-21T16:32:14.793815Z,hugo.laurent@entreprise.com,Hugo,Laurent,Directeur
+YdNi9,Email Opened,13.159.205.56,30.788976,-97.80653,2025-09-21T15:40:19.793815Z,True,2025-09-21T15:40:58.793815Z,hugo.moreau@entreprise.com,Hugo,Moreau,Directeur
+FKfDM,Clicked Link,36.12.180.111,-24.647532,-32.7606,2025-09-21T16:19:50.793815Z,False,2025-09-21T16:20:01.793815Z,marie.garcia@entreprise.com,Marie,Garcia,Chef de projet
+dYtU5,Email Sent,,0,0,2025-09-21T15:55:14.793815Z,False,2025-09-21T15:55:49.793815Z,lucas.michel@entreprise.com,Lucas,Michel,Développeur
+hkJhD,Email Opened,70.24.127.170,-21.213445,-40.835882,2025-09-21T16:31:59.793815Z,False,2025-09-21T16:33:57.793815Z,sophie.bernard@entreprise.com,Sophie,Bernard,Commercial

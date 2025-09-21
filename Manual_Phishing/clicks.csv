@@ -1,0 +1,6 @@
+prenom,nom,email_origine,id_utilisateur,clicked_at,ip,email_form,password
+Clement,Durecu,clement.shoddox@gmail.com,2,2025-09-17T12:44:00.078098,172.20.10.7,test@test.test,password
+Clement,Durecu,clement.shoddox@gmail.com,1,2025-09-17T13:09:04.445695,172.20.10.7,durecuclem@cy-tech.fr,test
+Clement,Durecu,clement.shoddox@gmail.com,1,2025-09-17T13:14:44.649753,172.20.10.7,durecuclem@cy-tech.fr,tsewdt
+Durecu,Clement,durecuclem@cy-tech.fr,2,2025-09-17T13:27:56.493149,172.20.10.7,durecuclem@cy-tech.fr,test
+Clement,Durecu,clement.shoddox@gmail.com,1,2025-09-18T00:25:18.356212,192.168.1.47,test@test.test,aaaaa
